@@ -1,0 +1,5 @@
+this my basic git bash commands
+git init
+git add .
+git commit -m ""[Dmeassge"[C
+git push
